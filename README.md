@@ -24,6 +24,12 @@ Args:
 EXIT_CODE   The exit code which this program will return
 ```
 
+## Install
+
+### Cargo 
+
+`cargo install exit-with-code`
+
 ## License
 
 Licensed under either of

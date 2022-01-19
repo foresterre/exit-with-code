@@ -1,6 +1,9 @@
 [package]
 name = "exit-with-code"
 version = "1.0.0"
+authors = ["Martijn Gribnau <garm@ilumeo.com>"]
+description = "A CLI which returns the exit code of your choice"
+license = "APACHE-2.0 OR MIT"
 edition = "2021"
 
 [dependencies]
